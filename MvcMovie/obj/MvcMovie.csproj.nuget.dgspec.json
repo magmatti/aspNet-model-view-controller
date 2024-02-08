@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\github\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\github\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\github\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\github\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Mateusz Wojtowicz\\.nuget\\packages\\",
-        "outputPath": "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "D:\\up\\semestr_5\\bazy_danych_w_aplikacjach_internetowych\\projekt\\MvcMovie\\github\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mateusz Wojtowicz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

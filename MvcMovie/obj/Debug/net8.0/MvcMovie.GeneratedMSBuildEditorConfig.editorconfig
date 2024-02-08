@@ -1,47 +1,155 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcMovie
 build_property.RootNamespace = MvcMovie
-build_property.ProjectDir = D:\up\semestr_5\bazy_danych_w_aplikacjach_internetowych\projekt\MvcMovie\MvcMovie\
+build_property.ProjectDir = D:\up\semestr_5\bazy_danych_w_aplikacjach_internetowych\projekt\MvcMovie\github\MvcMovie\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\up\semestr_5\bazy_danych_w_aplikacjach_internetowych\projekt\MvcMovie\MvcMovie
+build_property.MSBuildProjectDirectory = D:\up\semestr_5\bazy_danych_w_aplikacjach_internetowych\projekt\MvcMovie\github\MvcMovie
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/MvcMovie/Views/Home/Index.cshtml]
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/CarMakes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyTWFrZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/CarMakes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyTWFrZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/CarMakes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyTWFrZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/CarMakes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyTWFrZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/CarMakes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyTWFrZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Cars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Cars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Cars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Cars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Cars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Clients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/MvcMovie/Views/Home/Privacy.cshtml]
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/MvcMovie/Views/Shared/Error.cshtml]
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/RentedCars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGVkQ2Fyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/RentedCars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGVkQ2Fyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/RentedCars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGVkQ2Fyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/RentedCars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGVkQ2Fyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/RentedCars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGVkQ2Fyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/MvcMovie/Views/_ViewImports.cshtml]
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/MvcMovie/Views/_ViewStart.cshtml]
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/MvcMovie/Views/Shared/_Layout.cshtml]
+[D:/up/semestr_5/bazy_danych_w_aplikacjach_internetowych/projekt/MvcMovie/github/MvcMovie/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0uvum7rpp4
